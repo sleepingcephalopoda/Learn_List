@@ -3,12 +3,14 @@ This repo will be a collaboration among beginners learning full stack dev by bui
 
 
 ## Collaborators
+
   - Lee Daniel - Junior Full Developer
   - Danphil Daniel - Junior Front-End Developer
   - Kwame Olatunji - Junior Front-End Developer | Linux & AI Enthusiast
 
 
 ## Stories
+
   - User wants a great UI to enter programming languages and technologies he wants to learn in the future.
   - User wants a dark and light theme. 
   - User wants it to have a text box and button.
@@ -23,6 +25,7 @@ This repo will be a collaboration among beginners learning full stack dev by bui
   - User would like to delete any item and have the data permanently removed. 
 
 ## Suggest Stacks to use.
+
   - Danphil Daniel
     - 
 
