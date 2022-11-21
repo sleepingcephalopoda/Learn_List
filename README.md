@@ -25,7 +25,7 @@ This repo will be a collaboration among beginners learning full stack dev by bui
   - User would like to delete any item and have the data permanently removed. 
 
 ## Suggest Stacks to use.
-
+  -
   - Danphil Daniel
     - 
 
