@@ -24,10 +24,10 @@ This repo will be a collaboration among beginners learning full stack dev by bui
   - User would like to edit any item and have the change permanently stored.
   - User would like to delete any item and have the data permanently removed. 
 
-## Suggest Stacks to use.
-  -
+## Suggest Stacks to use
+  
   - Danphil Daniel
-    - 
+    - Place suggested Stack here
 
   - Kwame Olatunji
-  - 
+    - Place suggested stack here 
