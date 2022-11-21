@@ -4,7 +4,7 @@ This repo will be a collaboration among beginners learning full stack dev by bui
 
 ## Collaborators
 
-  - Lee Daniel - Junior Full Developer
+  - Lee Daniel - Junior Full Stack Developer
   - Danphil Daniel - Junior Front-End Developer
   - Kwame Olatunji - Junior Front-End Developer | Linux & AI Enthusiast
 
