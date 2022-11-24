@@ -27,7 +27,12 @@ This repo will be a collaboration among beginners learning full stack dev by bui
 ## Suggest Stacks to use
   
   - Danphil Daniel
-    - Place suggested Stack here
+    - Front-end 
+      -HTML
+      -CSS
+      -Tailwind
+      -JavaScript
+      
 
   - Kwame Olatunji
     - Place suggested stack here 
