@@ -6,7 +6,7 @@ This repo will be a collaboration among beginners learning full stack dev by bui
 
   - Lee Daniel - Junior Full Stack Developer
   - Danphil Daniel - Junior Front-End Developer
-  - Kwame Olatunji - Junior Front-End Developer | Linux & AI Enthusiast
+  - sleepingcephalopoda
 
 
 ## Stories
@@ -34,5 +34,5 @@ This repo will be a collaboration among beginners learning full stack dev by bui
       -JavaScript
       
 
-  - Kwame Olatunji
+  - sleepingcephalopoda
     - Place suggested stack here 
